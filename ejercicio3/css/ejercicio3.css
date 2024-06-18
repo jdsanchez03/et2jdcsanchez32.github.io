@@ -1,0 +1,24 @@
+body{
+    background-color: green;
+}
+.column{
+    display: flex;
+}
+.div1{
+    margin: 0 5px;
+    background-color: chocolate;
+    flex-direction: column;
+    text-align: justify;
+}
+.div2{
+    margin: 0 5px;
+    background-color: orange;
+    flex-direction: column;
+    text-align: justify;
+}
+.div3{
+    margin: 0 5px;
+    background-color: cyan;
+    flex-direction: column;
+    text-align: justify;
+}

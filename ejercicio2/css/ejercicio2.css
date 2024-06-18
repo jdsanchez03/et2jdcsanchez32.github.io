@@ -1,0 +1,19 @@
+body{
+    background-color: green;
+}
+.div1{
+    background-color: chocolate;
+    flex-direction: row;
+}
+.div2{
+    background-color: orange;
+    flex-direction: row;
+}
+.div3{
+    background-color: cyan;
+    flex-direction: row;
+}
+p{
+    margin: 5px;
+    text-align: justify;
+}
